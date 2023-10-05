@@ -3,10 +3,17 @@
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
 :penguin: :man: **I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
+## Skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,ruby,vue,github,vscode,bash,gitlab,bootstrap,codepen,md,sass,linux,replit,rails,postman,postgres,nodejs,netlify,mongodb,matlab,autocad&theme=light&perline=12" />
+  </a>
+</p>
 
 ## My Acheivements
 
-- :toolbox: I possess relevant industry-leading certifications including: 
+- :toolbox: I possess relevant industry-leading Certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
   - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
   - 💻 Professional Scrum Master PSM-I (2023, Scrum.org)
@@ -32,8 +39,9 @@
 
 <blockquote> 
   Yesterday I was clever so I wanted to change the world. <br />
-  Today I am wise so I am changing myself.
+  Today I am wise so I am changing myself. </blockquote>
   <br /> ***************   <br />
+<blockquote> 
   Stop being afraid of what could go wrong. <br />
   Start being excited of what could go right.
 </blockquote>
