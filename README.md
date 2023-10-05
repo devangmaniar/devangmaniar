@@ -19,11 +19,10 @@
 
 ## My Presence on the World Wide Web
 
-- [@YouTube](https://youtu.be/hxjpGLSSMZo)
-- [@email](mailto:devangmaniar@gmail.com)
-- [@twitter](https://twitter.com/nikkhielseath)
 - [@LinkedIn](https://www.linkedin.com/in/devang-maniar)
-
+- [@YouTube](https://youtu.be/hxjpGLSSMZo)
+- [@Email](mailto:devangmaniar@gmail.com)
+- [@Twitter](https://twitter.com/DaveManny3649)
 
 #### Quote
 
