@@ -1,3 +1,8 @@
+<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="animated/light_1.gif" height="20px" />
+// or
+![Vishnu Sivan](codemaker.png)
+
 ### Greetings! I am Devang Maniar :)
 
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
