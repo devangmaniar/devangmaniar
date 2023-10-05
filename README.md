@@ -1,6 +1,7 @@
 ### Greetings! I am Devang Maniar :)
 
-**I am a Scrum Master & Product Owner 💻, with a passion to connect customer needs into product vision and business value. :penguin: :man:**
+**I am a certified Scrum Master & Product Owner 💻, with a passion to connect customer needs into product vision and business value. :penguin: :man:** <br />
+**I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses. :penguin: :man:** <br />
 
 - :toolbox: I've acheived relevant market leading certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
