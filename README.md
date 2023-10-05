@@ -10,9 +10,6 @@
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF3: Spinach.IO</a> | My POV on AI Tool for Scrum Master
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF4: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF5: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview & Principles on SAFe Agilist
-
-
-https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf
  
 ## Skills:
 
