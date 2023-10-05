@@ -30,6 +30,7 @@
   Yesterday I was clever so I wanted to change the world. <br />
   Today I am wise so I am changing myself.
   <br />
+  <c> *************** </c>
   Stop being afraid of what could go wrong. <br />
   Start being excited of what could go right.
 </blockquote>
