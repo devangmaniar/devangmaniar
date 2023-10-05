@@ -4,7 +4,7 @@
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
 :penguin: :man: **I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
-<a href = "https://github.com/devangmaniar/mypdffiles/WhitePaper_GCP_LookerImplentation_5.21.23.pdf"> Click Here PDF 1</a>
+<a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation_5.21.23.pdf"> Click Here PDF 1</a>
 <a href = "devangmaniar.github.io/repositorymypdffiles/WhitePaper_GCP_LookerImplentation_5.21.23.pdf"> Click Here PDF 2. </a>
 <embed src="https://devangmaniar.github.io/WhitePaper_GCP_LookerImplentation_5.21.23.pdf.pdf" width="100%" height="850px"/>
 
