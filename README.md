@@ -6,7 +6,7 @@
 
 ## My Acheivements
 
-- :toolbox: I've acheived relevant market leading certifications including: 
+- :toolbox: I possess relevant industry-leading certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
   - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
   - 💻 Professional Scrum Master PSM-I (2023, Scrum.org)
