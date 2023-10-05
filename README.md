@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,ruby,vue,github,vscode,bash,gitlab,bootstrap,codepen,md,sass,linux,replit,rails,postman,postgres,nodejs,netlify,mongodb,matlab,autocad&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,git,js,html,css,ruby,vue,github,vscode,bash,gitlab,bootstrap,codepen,md,sass,linux,replit,rails,postman,postgres,nodejs,netlify,mongodb,matlab,autocad&theme=light&perline=12" />
   </a>
 </p>
 
