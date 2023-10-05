@@ -4,10 +4,6 @@
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
 :penguin: :man: **I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
-<p align="center">
-    <img src="[https://skillicons.dev/icons?i=aws,github,py,mysql,azure,discord,instagram,linkedin&theme=light&perline=12](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscaledagile.com%2Ftraining%2Fleading-safe%2F&psig=AOvVaw0OYmxoUpjl4ndYxnLP0JM-&ust=1696613018975000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCe55O234EDFQAAAAAdAAAAABAE
-)" />
-</p>
 
 ## Skills:
 
