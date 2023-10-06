@@ -9,7 +9,9 @@
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_GenerativeAI_VertexAI.pdf"> PDF2: Google Vertex Generative AI</a> | How Google's Vertex Generative AI can benefit?  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF3: Spinach.IO</a> | My POV on AI Tool for Scrum Master
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF4: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
-- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF5: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview & Principles on SAFe Agilist
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF5: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/??"> PDF6: Scrum Master Basic Overview </a> | My Dummies Guide: Scrum Master Basic Overview
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/??"> PDF7: Atlassia Jira Software Basic Overview </a> | My Dummies Guide: Atlassian Managing Jira for Clouds Basic Overview
  
 ## Skills:
 
