@@ -5,7 +5,7 @@
 :penguin: :man: **I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
 ## My Projects, POVs, Capstones and research papers:
-- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> PDF1: GCP White Paper</a> | Google GCP White Paper 
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> My PDF-1: GCP White Paper</a> | Google GCP White Paper 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_GenerativeAI_VertexAI.pdf"> PDF2: Google Vertex Generative AI</a> | How Google's Vertex Generative AI can benefit?  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF3: Spinach.IO</a> | My POV on AI Tool for Scrum Master
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF4: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
