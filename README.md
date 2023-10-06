@@ -2,7 +2,7 @@
 ### Greetings! I am Devang Maniar :)
 
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
-:penguin: :man: **I am also a self-established business entrepreneur with over ten years of operating and leading a company in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
+:penguin: :man: **I am also a business entrepreneur, leading and operating a self-established business with over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
 ## Agile Methodology Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
