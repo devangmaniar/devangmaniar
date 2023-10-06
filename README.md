@@ -13,7 +13,7 @@
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> PDF: GCP White Paper</a> | Google GCP White Paper 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_GenerativeAI_VertexAI.pdf"> PDF: Google Vertex Generative AI</a> | How Google's Vertex Generative AI can benefit?  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF: Spinach.IO</a> | My POV on AI Tool for Scrum Master
-- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF4: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
 
 ## Data Analytics Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
