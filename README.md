@@ -28,11 +28,8 @@
 </p>
 
 ## My Acheivements
-![alt text](https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true)
-![Model](https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true)
-
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" alt="My Certifications & Achievements"/>
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="200" height="200" alt="My Certifications & Achievements"/>
 </p>
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
