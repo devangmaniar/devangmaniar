@@ -28,7 +28,9 @@
 </p>
 
 ## My Acheivements
-
+<p align="center">
+    <img src="??" />
+</p>
 - :toolbox: I possess relevant industry-leading Certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
   - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
