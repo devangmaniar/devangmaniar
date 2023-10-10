@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" alt="My Certifications & Achievements"/>
 </p>
+
 - :toolbox: I possess relevant industry-leading Certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
   - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
