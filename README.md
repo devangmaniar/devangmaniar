@@ -28,7 +28,7 @@
 </p>
 
 ## My Acheivements
-![alt text] ([https://gi](https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/My_List_of_Certifications_Image.jpg?raw=true)
+![alt text] (https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/My_List_of_Certifications_Image.jpg?raw=true)
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
