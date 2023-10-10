@@ -5,18 +5,18 @@
 :penguin: :man: **I am also a business entrepreneur, leading and operating a self-established business with over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
 ## Projects & Publications:
-# Agile Methodology Projects:
+### Agile Methodology Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/ScrumMaster_My_DummyGuide.pdf"> PDF: Scrum Master Basic Overview </a> | My Dummies Guide: Scrum Master Basic Overview
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Jira_Projects_for_Cloud_My_DummyGuide.pdf"> PDF: Atlassian Jira Software Basic Overview </a> | My Dummies Guide: Atlassian Managing Jira for Clouds Basic Overview
 
-# Artificial Intelligence Projects:
+### Artificial Intelligence Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> PDF: GCP White Paper</a> | Google GCP White Paper 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_GenerativeAI_VertexAI.pdf"> PDF: Google Vertex Generative AI</a> | How Google's Vertex Generative AI can benefit?  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF: Spinach.IO</a> | My POV on AI Tool for Scrum Master
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
 
-# Data Analytics Projects:
+### Data Analytics Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
 ## Skills:
