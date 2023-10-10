@@ -1,5 +1,5 @@
 
-## Greetings! I am Devang Maniar :)
+## Greetings! About Myself! :)
 
 :penguin: :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
 :penguin: :man: **I am also a business entrepreneur, leading and operating a self-established business with over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
