@@ -2,7 +2,7 @@
 ## Greetings! About Myself :)
 
 :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br /> <br />
-:man: **I am a business entrepreneur, leading and operating a self-established business with over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
+:man: **I am a self-established business entrepreneur, leading and operating for over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
