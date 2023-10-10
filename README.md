@@ -29,7 +29,7 @@
 
 ## My Acheivements
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="600" height="300" alt="My Certifications & Achievements"/>
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="475" height="300" alt="My Certifications & Achievements"/>
 </p>
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
