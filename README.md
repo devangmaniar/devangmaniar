@@ -28,7 +28,7 @@
 </p>
 
 ## My Acheivements
-<p align="left">
+<p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="475" height="300" alt="My Certifications & Achievements"/>
 </p>
 
