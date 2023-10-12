@@ -25,7 +25,7 @@
 
 ## My Skills
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="94" height="94" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="94" height="120" />
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
