@@ -63,7 +63,7 @@
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/email_logo.png" width="15" height="12" />  My Email ](mailto:devangmaniar@gmail.com)
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/twitter_logo_version2.png" width="18" height="15"/>  My Twitter ](https://twitter.com/DaveManny3649)
 
-<strong> Quote </strong>
+<strong> Quote </strong> <br />
   Yesterday I was clever so I wanted to change the world. <br />
   Today I am wise so I am changing myself. </br>
   Stop being afraid of what could go wrong. <br />
