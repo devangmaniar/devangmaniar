@@ -40,7 +40,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="100" height="90" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/devops_logo_version2.png" width="140" height="80" />
 </p>
-
+</br>
 ## My Projects, Capstones & Dummies Guide:
 ### Agile Methodology Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
