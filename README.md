@@ -2,7 +2,7 @@
 ## Greetings! About Myself :)
 
 💻 **I am a technology professional and accomplished business entrepreneur with a passion to translate customer requirements into business value.** <br />
-🏅 **Certified as a Product Owner, Scrum Master, SAFe Agilist, Amazon Web Service Cloud Practitioner and Artificial Intelligence, dedicated to driving sucess through agile methodologies and cutting-edge technologies.** <br />
+🏅 **Certified as a Product Owner, Scrum Master, SAFe Agilist, Amazon Web Service Cloud Practitioner and Artificial Intelligence, dedicated to driving sucess through data analysis, agile methodologies and cutting-edge technologies.** <br />
 
 ## My Certifications & Achievements
 <p align="center">
