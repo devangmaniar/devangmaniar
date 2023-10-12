@@ -27,6 +27,11 @@
   </a>
 </p>
 
+## TEST:
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo&theme=light&perline=6" />
+</p>
+
 ## My Acheivements
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="450" height="300" alt="My Certifications & Achievements"/>
