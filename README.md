@@ -43,7 +43,7 @@
 
 ## My Projects, Capstones & Dummies Guide:
 
-### Agile Methodology Projects: 
+### <strong>Agile Methodology Projects:</strong> 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/ScrumMaster_My_DummyGuide.pdf"> PDF: Scrum Master Basic Overview </a> | My Dummies Guide: Scrum Master Basic Overview
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Jira_Projects_for_Cloud_My_DummyGuide.pdf"> PDF: Atlassian Jira Software Basic Overview </a> | My Dummies Guide: Atlassian Managing Jira for Clouds Basic Overview
