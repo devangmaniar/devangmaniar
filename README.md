@@ -11,7 +11,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1_version2.png" width="85" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_version2.png" width="80" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version4.png" width="90" height="85" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="170" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="175" height="80" />
 </p>
 <p align="center">  
  🔹 Certified Scrum Master CSM (2021, Scrum Alliance) 🔹   <br />
@@ -20,7 +20,7 @@
  🔹 SAFe Agilist 6.0 (2023 Scaled Agile, Inc.) 🔹  <br />
  🔹 Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service) 🔹  <br />
  🔹 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute) 🔹  <br />
- 🔹 AI Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management) 🔹
+ 🔹 Artificial Intelligence(AI) Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management) 🔹
 </p> 
 
 ## Projects & Publications:
