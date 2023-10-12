@@ -40,6 +40,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
 </p>
 
+
 ## My Acheivements & Certifications
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="75" height="72" />
@@ -47,7 +48,9 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
-  
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="75" height="72" />
+</p>    
 </p>
 
 <p align="center">
