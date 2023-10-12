@@ -29,17 +29,25 @@
 
 ## TEST:
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="100" height="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="100" height="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo_white.png" width="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="100" />
-</p>
-<p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo_white.png" width="100" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png" width="100" />  
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png" width="100" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_white.png" width="100" />
 </p>
+
+<p align="center">  
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo_white.png" width="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/waterfall_logo.png" width="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png" width="100" />  
+</p>
+
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="100" height="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="100" height="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="100" height="100" />  
+</p> 
+
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
