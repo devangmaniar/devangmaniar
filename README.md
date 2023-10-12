@@ -26,10 +26,10 @@
 ## My Skills
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="120" height="80" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jupyter_logo.png" width="80" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jupyter_logo.png" width="75" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/azure_logo.png" width="120" height="80" 
   />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="90" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="80" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png" width="90" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/salesforce_logo.png" width="120" height="80" /> 
  <br/>
