@@ -10,7 +10,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo_version4.png" width="85" height="85" />  
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1_version2.png" width="85" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_version2.png" width="85" height="85" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version3.png" width="85" height="85" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version4.png" width="85" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="170" height="85" />
 </p>
 
