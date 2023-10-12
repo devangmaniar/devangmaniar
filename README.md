@@ -31,8 +31,8 @@
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="70" height="70" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="50" height="50" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="50" height="50" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="60" height="60" />
 </p>
 
 <p align="center">  
