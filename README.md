@@ -69,7 +69,3 @@
   Stop being afraid of what could go wrong. <br />
   Start being excited of what could go right. <br />
 
-#### Recommended Reads
--  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
--   _The Richest Man in Babylon_ by George S. Clason.
--   _The Subtle Art of Not Giving_ a F\*ck by Mark Manson.
