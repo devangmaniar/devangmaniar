@@ -26,7 +26,7 @@
 ## My Skills
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="120" height="80" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jupyter_logo.png" width="90" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jupyter_logo.png" width="800" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/azure_logo.png" width="120" height="80" 
   />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="90" height="80" />
