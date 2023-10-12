@@ -1,8 +1,8 @@
 
 ## Greetings! About Myself :)
 
-:man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br />
-:man: **I am a self-established business entrepreneur, leading and operating for over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
+:man: **I am a technology professional and accomplished business entrepreneur with a passion to translate customer requirements into business value.** <br />
+:man: **Certified as a Product Owner, Scrum Master, SAFe Agilist, Amazon Web Service Cloud Practitioner and Artificial Intelligence, dedicated to driving sucess through agile methodologies and cutting-edge technologies.** <br />
 
 ## My Certifications & Achievements
 <p align="center">
