@@ -13,7 +13,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version4.png" width="90" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="170" height="80" />
 </p>
-<p alight="center">  
+<p align="center">  
  🔹 Certified Scrum Master CSM (2021, Scrum Alliance) 🔹  <br />
  🔹 Professional Scrum Product Owner PSPO-I (2023, Scrum.org) 🔹 
  🔹 Professional Scrum Master PSM-I (2023, Scrum.org) 🔹 
