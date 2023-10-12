@@ -21,7 +21,7 @@
  🔹 <strong>  Amazon Web Service Certified Cloud Practitioner CCP </strong> 🔹  <br />
  🔹 <strong>  Oracle 9i Part-I Introduction to PL/SQL </strong> 🔹  <br />
  🔹 <strong>  Artificial Intelligence(AI) Applications for Growth Certificate </strong> 🔹
- </p> 
+</p> 
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
