@@ -14,13 +14,13 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="175" height="80" />
 </p>
 <p align="center"> 
- 🔹 <strong> Certified Scrum Master CSM (2021, Scrum Alliance) </strong> 🔹   <br />
- 🔹 Professional Scrum Product Owner PSPO-I (2023, Scrum.org) 🔹  <br />
- 🔹 Professional Scrum Master PSM-I (2023, Scrum.org) 🔹  <br />
- 🔹 SAFe Agilist 6.0 (2023 Scaled Agile, Inc.) 🔹  <br />
- 🔹 Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service) 🔹  <br />
- 🔹 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute) 🔹  <br />
- 🔹 Artificial Intelligence(AI) Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management) 🔹
+ 🔹 <strong>  Certified Scrum Master CSM (2021, Scrum Alliance) </strong> 🔹   <br />
+ 🔹 <strong>  Professional Scrum Product Owner PSPO-I (2023, Scrum.org) </strong> 🔹  <br />
+ 🔹 <strong>  Professional Scrum Master PSM-I (2023, Scrum.org) </strong> 🔹  <br />
+ 🔹 <strong>  SAFe Agilist 6.0 (2023 Scaled Agile, Inc.) </strong> 🔹  <br />
+ 🔹 <strong>  Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service) </strong> 🔹  <br />
+ 🔹 <strong>  Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute) </strong> 🔹  <br />
+ 🔹 <strong>  Artificial Intelligence(AI) Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management) </strong> 🔹
  </p> 
 
 ## Projects & Publications:
