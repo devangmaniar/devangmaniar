@@ -21,27 +21,12 @@
 
 ## Skills:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,github,py,mysql,azure,discord,instagram,linkedin&theme=light&perline=12" />
-  </a>
-</p>
-
-## TEST:
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="100" height="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="100" height="100" />  
-</p> 
-
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
-</p>
 
 
 ## My Acheivements & Certifications
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="72" />
+</p>
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="75" height="72" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
@@ -49,11 +34,8 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="160" height="72" />
+</p>
 
-</p>
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="72" />
-</p>
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
   - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
