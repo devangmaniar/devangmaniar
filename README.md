@@ -35,7 +35,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="70" height="70" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="100" height="70" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png"  width="70" height="70" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/waterfall_logo.png" width="100" height="70" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/waterfall_logo.png" width="120" height="70" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png"  width="80" height="70" />  
 </p>
 
