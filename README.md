@@ -57,8 +57,6 @@
 <strong> Data Analytics Projects: </strong>
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
--  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
-
 ## My Presence on the World Wide Web
 
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/linkedin_logo.png" width="15" height="15" />  My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
@@ -68,15 +66,12 @@
 
 #### Quote
 
-<blockquote> 
   Yesterday I was clever so I wanted to change the world. <br />
-  Today I am wise so I am changing myself. </blockquote>
-<blockquote> 
+  Today I am wise so I am changing myself. </br>
   Stop being afraid of what could go wrong. <br />
-  Start being excited of what could go right.
-</blockquote>
+  Start being excited of what could go right. <br />
 
 #### Recommended Reads
-
+-  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 -   _The Richest Man in Babylon_ by George S. Clason.
 -   _The Subtle Art of Not Giving_ a F\*ck by Mark Manson.
