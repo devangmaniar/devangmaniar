@@ -29,10 +29,10 @@
 
 ## TEST:
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo_white.png" width="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="100" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png" width="100" />  
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png" width="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_white.png" width="100" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="100" />
 </p>
 
 <p align="center">  
