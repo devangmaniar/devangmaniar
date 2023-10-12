@@ -29,7 +29,7 @@
 
 ## TEST:
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo&theme=light&perline=6" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.jpg&theme=light&perline=6" />
 </p>
 
 ## My Acheivements
