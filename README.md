@@ -58,14 +58,12 @@
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
 ## My Presence on the World Wide Web
-
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/linkedin_logo.png" width="15" height="15" />  My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/youtube_logo.png" width="30" height="12" />  My YouTube ](https://youtu.be/hxjpGLSSMZo)
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/email_logo.png" width="15" height="12" />  My Email ](mailto:devangmaniar@gmail.com)
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/twitter_logo_version2.png" width="18" height="15"/>  My Twitter ](https://twitter.com/DaveManny3649)
 
-#### Quote
-
+<strong> Quote </strong>
   Yesterday I was clever so I wanted to change the world. <br />
   Today I am wise so I am changing myself. </br>
   Stop being afraid of what could go wrong. <br />
