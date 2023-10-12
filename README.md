@@ -38,7 +38,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/clover_logo.png" width="80" height="75" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="90" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="100" height="90" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/devops_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/devops_logo_version2.png" width="120" height="80" />
 
 
 ## Projects & Publications:
