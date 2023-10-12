@@ -61,7 +61,7 @@
 
 ## My Presence on the World Wide Web
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
+-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/linkedin_logo.png" width="25" height="25" /> [My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
 - [My YouTube Brief Intro About Myself](https://youtu.be/hxjpGLSSMZo)
 - [My Email](mailto:devangmaniar@gmail.com)
 - [My Twitter](https://twitter.com/DaveManny3649)
