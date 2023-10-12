@@ -50,11 +50,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
 </p>
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="120" height="72" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="450" height="300" alt="My Certifications & Achievements"/>
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="72" />
 </p>
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
