@@ -46,9 +46,7 @@
   - 💻 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute)
  
 - :toolbox: My most recent achievement is completeing business executive course on Artificial Intelligence (AI): 
-  - 💻 School: Northwestern Kellogg Business School of Management 
-  - 💻 Course: Artificial Intelligence Appications for Growth
-  - 💻 Certification of Completion link:  
+  - 💻 Certification of Completeion on AI Applications for Growth (2023, Northwestern Kellogg Business School of Management)
  
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 
