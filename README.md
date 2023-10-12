@@ -30,7 +30,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/azure_logo.png" width="120" height="80" 
   />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="90" height="80" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png" width="90" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/salesforce_logo.png" width="120" height="80" />
 
 ## Projects & Publications:
