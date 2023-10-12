@@ -31,7 +31,15 @@
   />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png" width="90" height="80" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png" width="90" height="80" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/salesforce_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/salesforce_logo.png" width="120" height="80" /> 
+  >br/>
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/uat_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/square_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/clover_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="120" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/devops_logo.png" width="120" height="80" />
+
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
