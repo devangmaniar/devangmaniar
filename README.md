@@ -14,7 +14,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="170" height="80" />
 </p>
 <p align="center">  
- 🔹 Certified Scrum Master CSM (2021, Scrum Alliance) 🔹  <br />
+ 🔹 Certified Scrum Master CSM (2021, Scrum Alliance) 🔹  
  🔹 Professional Scrum Product Owner PSPO-I (2023, Scrum.org) 🔹 
  🔹 Professional Scrum Master PSM-I (2023, Scrum.org) 🔹 
  🔹 SAFe Agilist 6.0 (2023 Scaled Agile, Inc.) 🔹 
