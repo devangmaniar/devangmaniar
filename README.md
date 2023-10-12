@@ -29,19 +29,7 @@
 
 ## TEST:
 <p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="71" height="72" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="100" height="65" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/scrum_logo.png"  width="70" height="70" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/waterfall_logo.png" width="120" height="70" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/sldc_logo.png"  width="70" height="60" />  
-</p>
-
-<p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/ai_logo.png" width="100" height="100" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="100" height="100" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/machinelearning_logo.png" width="100" height="100" />  
 </p> 
 
@@ -52,7 +40,17 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/??" width="100" />
 </p>
 
-## My Acheivements
+## My Acheivements & Certifications
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="71" height="72" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/jira_logo.png" width="100" height="65" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
+  
+</p>
+
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/My_List_of_Certifications_Image.jpg?raw=true" width="450" height="300" alt="My Certifications & Achievements"/>
 </p>
