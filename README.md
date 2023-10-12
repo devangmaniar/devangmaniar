@@ -15,11 +15,11 @@
 </p>
 <p align="center"> 
  🔹 <strong>  Certified Scrum Master CSM </strong> 🔹   <br />
- 🔹 <strong>  Professional Scrum Product Owner PSPO-I </strong> 🔹  <br />
- 🔹 <strong>  Professional Scrum Master PSM-I </strong> 🔹  <br />
- 🔹 <strong>  SAFe Agilist 6.0 </strong> 🔹  <br />
- 🔹 <strong>  Amazon Web Service Certified Cloud Practitioner CCP </strong> 🔹  <br />
- 🔹 <strong>  Oracle 9i Part-I Introduction to PL/SQL </strong> 🔹  <br />
+ 🔹 <strong>  Certified Professional Scrum Product Owner PSPO-I </strong> 🔹  <br />
+ 🔹 <strong>  Certified Professional Scrum Master PSM-I </strong> 🔹  <br />
+ 🔹 <strong>  Certified Lead SAFe Agilist 6.0 </strong> 🔹  <br />
+ 🔹 <strong>  Certified Amazon Web Service Cloud Practitioner CCP </strong> 🔹  <br />
+ 🔹 <strong>  Certified Oracle 9i Part-I Introduction to PL/SQL </strong> 🔹  <br />
  🔹 <strong>  Certified Artificial Intelligence(AI) Applications for Growth </strong> 🔹
 </p> 
 
