@@ -11,7 +11,7 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1_version2.png" width="85" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_version2.png" width="80" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version4.png" width="90" height="85" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="175" height="80" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="80" />
 </p>
 <p align="center"> 
  🔹 <strong>  Certified Scrum Master CSM </strong> 🔹   <br />
