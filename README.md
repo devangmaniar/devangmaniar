@@ -13,6 +13,16 @@
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version4.png" width="90" height="85" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="170" height="80" />
 </p>
+  - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
+  - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
+  - 💻 Professional Scrum Master PSM-I (2023, Scrum.org)
+  - 💻 SAFe Agilist 6.0 (2023 Scaled Agile, Inc.)
+  - 💻 Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service)
+  - 💻 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute)
+ 
+- :toolbox: My most recent achievement is receiveing a certification from Northwestern Kellogg University: 
+  - 💻 AI Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management)
+
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
@@ -36,15 +46,7 @@
 
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
-  - 💻 Certified Scrum Master CSM (2021, Scrum Alliance)
-  - 💻 Professional Scrum Product Owner PSPO-I (2023, Scrum.org)
-  - 💻 Professional Scrum Master PSM-I (2023, Scrum.org)
-  - 💻 SAFe Agilist 6.0 (2023 Scaled Agile, Inc.)
-  - 💻 Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service)
-  - 💻 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute)
- 
-- :toolbox: My most recent achievement is receiveing a certification from Northwestern Kellogg University: 
-  - 💻 AI Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management)
+
  
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 
