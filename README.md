@@ -20,8 +20,12 @@
  🔹 <strong>  SAFe Agilist 6.0 </strong> 🔹  <br />
  🔹 <strong>  Amazon Web Service Certified Cloud Practitioner CCP </strong> 🔹  <br />
  🔹 <strong>  Oracle 9i Part-I Introduction to PL/SQL </strong> 🔹  <br />
- 🔹 <strong>  Artificial Intelligence(AI) Applications for Growth Certificate </strong> 🔹
+ 🔹 <strong>  Certified Artificial Intelligence(AI) Applications for Growth </strong> 🔹
 </p> 
+
+## My Skills
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo_version2.png" width="94" height="94" />
 
 ## Projects & Publications:
 ### Agile Methodology Projects:
@@ -38,15 +42,6 @@
 ### Data Analytics Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
-## Skills:
-
-
-
-
-
-- :toolbox: I possess relevant industry-leading Certifications including: 
-
- 
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 
 ## My Presence on the World Wide Web
