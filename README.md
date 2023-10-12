@@ -7,11 +7,19 @@
 ## My Certifications & Achievements
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="100" height="94" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo_version2.png" width="100" height="94" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="85" height="85" />  
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="160" height="72" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo_version2.png" width="100" height="94" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo_version2.png"  width="85" height="85" />  
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1_version2.png"  width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo_version2.png" width="65" height="65" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo_version2.png" width="60" height="60" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="160" height="72" />
 </p>
 
