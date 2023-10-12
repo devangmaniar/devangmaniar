@@ -61,10 +61,10 @@
 
 ## My Presence on the World Wide Web
 
-- [@LinkedIn](https://www.linkedin.com/in/devang-maniar)
-- [@YouTube](https://youtu.be/hxjpGLSSMZo)
-- [@Email](mailto:devangmaniar@gmail.com)
-- [@Twitter](https://twitter.com/DaveManny3649)
+- [My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
+- [My YouTube Brief Intro About Myself](https://youtu.be/hxjpGLSSMZo)
+- [My Email](mailto:devangmaniar@gmail.com)
+- [My Twitter](https://twitter.com/DaveManny3649)
 
 #### Quote
 
