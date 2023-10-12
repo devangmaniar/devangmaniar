@@ -7,7 +7,7 @@
 ## My Certifications & Achievements
 <p align="center">
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="100" height="94" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="90" height="90" />  
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
   <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
