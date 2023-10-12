@@ -4,6 +4,19 @@
 :man: **I am a certified Scrum Master & Product Owner, with a passion to connect customer needs into product vision and business value.** <br />
 :man: **I am a self-established business entrepreneur, leading and operating for over ten years in the retail space creating sales and distribution channel for end consumers and businesses.** <br />
 
+## My Certifications & Achievements
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="72" />
+</p>
+<p align="center">
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="75" height="72" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
+  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="160" height="72" />
+</p>
+
 ## Projects & Publications:
 ### Agile Methodology Projects:
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/SAFe_Agilist_My_DummyGuide.pdf"> PDF: SAFe Agilist Basic Overview </a> | My Dummies Guide: Basic Overview on Scale Agile Framework 
@@ -23,18 +36,6 @@
 
 
 
-## My Acheivements & Certifications
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="180" height="72" />
-</p>
-<p align="center">
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/csm_logo.png" width="75" height="72" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/psm1_logo.png"  width="60" height="60" />  
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/pspo1.png"  width="60" height="60" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/safe_logo.png" width="65" height="65" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/amazoncloud_logo.png" width="60" height="60" />
-  <img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/kellogg_logo.png" width="160" height="72" />
-</p>
 
 
 - :toolbox: I possess relevant industry-leading Certifications including: 
