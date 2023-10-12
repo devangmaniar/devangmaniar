@@ -1,7 +1,7 @@
 
 ## Greetings! About Myself :)
 
-:man: **I am a technology professional and accomplished business entrepreneur with a passion to translate customer requirements into business value.** <br />
+💻 **I am a technology professional and accomplished business entrepreneur with a passion to translate customer requirements into business value.** <br />
 🏅 **Certified as a Product Owner, Scrum Master, SAFe Agilist, Amazon Web Service Cloud Practitioner and Artificial Intelligence, dedicated to driving sucess through agile methodologies and cutting-edge technologies.** <br />
 
 ## My Certifications & Achievements
