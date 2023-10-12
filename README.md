@@ -45,8 +45,8 @@
   - 💻 Amazon Web Service Certified Cloud Practitioner CCP (2023, Amazon Web Service)
   - 💻 Oracle 9i Part-I Introduction to PL/SQL (2002, Aquarius Institute)
  
-- :toolbox: My most recent achievement is completeing business executive course on Artificial Intelligence (AI): 
-  - 💻 Certification of Completeion on AI Applications for Growth (2023, Northwestern Kellogg Business School of Management)
+- :toolbox: My most recent achievement is receiveing a certification from Northwestern Kellogg University: 
+  - 💻 AI Applications for Growth Certificate (2023, Northwestern Kellogg Business School of Management)
  
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 
