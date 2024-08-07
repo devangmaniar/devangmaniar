@@ -49,7 +49,7 @@
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Jira_Projects_for_Cloud_My_DummyGuide.pdf"> PDF: Atlassian Jira Software Basic Overview </a> | My Dummies Guide: Atlassian Managing Jira for Clouds Basic Overview
 
 <strong> Artificial Intelligence Projects: </strong>
-- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> PDF: GCP White Paper</a> | Google GCP White Paper 
+- <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_LookerImplentation.pdf"> PDF: GCP White Paper</a> | Google Cloud Platform (GCP) Looker Implementation and Best Practices  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/WhitePaper_GCP_GenerativeAI_VertexAI.pdf"> PDF: Google Vertex Generative AI</a> | How Google's Vertex Generative AI can benefit?  
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/Spinach_AITool_ScrumMaster.pdf"> PDF: Spinach.IO</a> | My POV on AI Tool for Scrum Master
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/FinalCapstone_AI_Strategy_To_CEO.pdf"> PDF: Capstone Project: AI Strategy for Business </a> | Capstone Project: AI Strategy for Business
