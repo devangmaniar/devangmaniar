@@ -57,6 +57,7 @@
 <strong> Data Analytics Projects: </strong>
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
+<!-- This is a comment within some text -->
 ## My Presence on the World Wide Web
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/linkedin_logo.png" width="15" height="15" />  My LinkedIn Profile](https://www.linkedin.com/in/devang-maniar)
 -  [<img src="https://github.com/devangmaniar/devangmaniar/blob/main/myimages/myskills/youtube_logo.png" width="30" height="12" />  My YouTube ](https://youtu.be/RfRvz-k7nMo)
