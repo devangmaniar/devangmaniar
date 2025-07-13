@@ -57,7 +57,7 @@
 <strong> Data Analytics Projects: </strong>
 - <a href = "https://github.com/devangmaniar/devangmaniar/blob/main/mypdffiles/KNIME_DataAnalytics_Churn_Prediction_Model_Exercise.pdf"> PDF - KNIME Data Analytics Exercise</a> | Generate a Churn Prediction Model
 
-<strong> Google GenAI Leadership Certification: </strong>
+<strong> Google GenAI Leadership Certification: (Updated 2025) </strong>
 - <a href = ??> My Summary Notes </a> | Google GenAI Certification Notes
 
 <!--  ## My Presence on the World Wide Web  
