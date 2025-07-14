@@ -12,8 +12,8 @@ These are my personal summary notes on Google GenAI Leadership Ceritification Co
   * [1.3 What is Deep Learning (DL)? ](#13-what-is-deep-learning)
   * [1.4. What is Generative AI (GenAI)? ](#14-what-is-generative-ai)
   * [1.5. What are Foundational Models? ](#14-what-are-foundational-models)
-  * [1.4. What are Large Language Models? ](#14-what-are-large-language-models)
-  * [1.4. What is Gemini App? ](#14-what-is-generative-ai)
+  * [1.6. What are Large Language Models? ](#14-what-are-large-language-models)
+  * [1.7. What is Gemini App? ](#14-what-is-generative-ai)
 - [2.DYNAMIC BADGES](#2dynamic-badges)
   * [2.1 Profile view](#21-profile-view)
   * [2.2 Hit counter](#22-hit-counter)
@@ -33,48 +33,32 @@ These are my personal summary notes on Google GenAI Leadership Ceritification Co
 
 ----------
 
-# 1. STATIC BADGES
-## 1.1 Importing image
+# 1. FUNDAMENTALS of AI
+## 1.1 What is Artificial Intelligence (AI)?
 One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following links: [LINK1](https://github.com/MikeCodesDotNET/ColoredBadges#), [LINK2](https://simpleicons.org/?q=tens) and [LINK3](https://github.com/marwin1991/profile-technology-icons). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
-
-| **badge and code** |
-| --------------- | 
-| <img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg' >| 
-`<img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg'>` |
-<img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg' >| 
-`<img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg'>` |
-
 
 ------------------------
 
-## 1.2 Predefined Markdown badges
+## 1.2  What is Machine Learning (ML)?
 When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
-| **badge and code** |
-| --------------- | 
-|![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)| 
-`![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)` |
-|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
-`![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)`|
-|![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
-`![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
-## 1.3 Predefined URL badges
-In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
-`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK2](https://github.com/Envoy-VC/awesome-badges) and  [LINK3](https://home.aveek.io/GitHub-Profile-Badges/). 
-
-
-| **badge and code** |
-| --------------- | 
-|![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)| 
-`![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)` |
-|![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)| 
-`![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)`|
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)| 
-`![![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
+## 1.3 What is Deep Learning (DL)?
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README
 
 -------------
-## 1.4. Badge generators
+## 1.4. What is Generative AI (GenAI)?
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README
 
 ## 1.4.1 Gradient badge
 The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easiest or user-friendly ways to create a badge. I have created an example with my name.
+
+-------------
+## 1.5. What are Foundational Models?
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README
+
+## 1.6. What are Foundational Models?
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README
+
+## 1.7. What is Gemini App??
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README
